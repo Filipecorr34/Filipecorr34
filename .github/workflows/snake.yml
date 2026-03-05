@@ -1,31 +1,25 @@
 name: Generate snake game
 
 on:
-  schedule:
-    # Executa a cada 12 horas
-    - cron: "0 */12 * * *"
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     name: Jobs to update datas
     runs-on: ubuntu-latest
-    
-    # PERMISSÃO NECESSÁRIA PARA O BOT FAZER O COMMIT NA BRANCH OUTPUT
-    permissions:
-      contents: write 
-
     steps:
-      # Gera a animação da cobrinha
+      # Snake Animation
       - uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: Filipecorr34
-          # Novo formato: o caminho do arquivo e a cor da cobra juntos
+          # A cor e o nome do arquivo agora são definidos juntos aqui:
           outputs: |
             dist/github-contribution-grid-snake2.svg?color_snake=blue
 
-      # Envia os arquivos gerados para a branch "output"
+      # Envia o arquivo gerado para a branch "output"
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
