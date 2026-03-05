@@ -38,4 +38,4 @@
 
 ##
 
-![snake animation](https://raw.githubusercontent.com/Filipecorr34/Filipecorr34/output/github-contribution-grid-snake2.svg)
+![snake animation](https://raw.githubusercontent.com/Filipecorr34/Filipecorr34/output/github-contribution-grid-snake.svg)
