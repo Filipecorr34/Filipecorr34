@@ -2,8 +2,6 @@
 
 ### Estudante de Engenharia da Computação | Desenvolvedor 
 
-### Sobre mim                                                                                                                                   
-
 - Estudante de Engenharia da Computação, atualmente atuo como bolsista no Laboratório de Sistemas Inteligentes e Interativos (LIIS), contribuindo diretamente para o projeto PPSUS. Nesse projeto, tenho focado no desenvolvimento de soluções voltadas para a saúde, como a construção de dashboards clínicos, trabalhando com tecnologias como Next.js, NestJS e TypeScript, além de me aprofundar em arquitetura de software e integração de APIs.
 - **Áreas de interesse:** Inteligência Artificial, Machine Learning, Deep Learning, Análise de Dados Desenvolvimento Web e Mobile, IoT, Eletrônica, Redes de Computadores e Segurança da Informação.
 
@@ -13,7 +11,7 @@
   <a href="https://instagram.com/filipecorre4" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </div>
 
----
+##
 
 ## 💻 Tecnologias & Ferramentas
 
@@ -56,8 +54,10 @@ Aqui estão as linguagens e tecnologias com as quais tenho familiaridade:
 
 ## 🐍 Minhas Contribuições
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Filipecorr34/Filipecorr34/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Filipecorr34/Filipecorr34/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Filipecorr34/Filipecorr34/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center"> 
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Filipecorr34/Filipecorr34/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Filipecorr34/Filipecorr34/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Filipecorr34/Filipecorr34/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
