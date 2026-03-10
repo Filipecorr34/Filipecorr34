@@ -42,10 +42,10 @@ Aqui estão as linguagens e tecnologias com as quais tenho familiaridade:
 <div> 
   <p align="center" style="display: flex; justify-content: center; align-items: center;">
    <a href="https://github.com/Filipecorr34">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Filipecorr34&layout=compact&langs_count=8&bg_color=1a1b26&title_color=0095FF&text_color=00E6FF"/>
+    <img height="180em" src="https://github-readme-stats-git-main-filipecorr34s-projects.vercel.app/api/top-langs/?username=Filipecorr34&layout=compact&langs_count=8&bg_color=1a1b26&title_color=0095FF&text_color=00E6FF"/>
    </a>
    <a href="https://github.com/Filipecorr34">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Filipecorr34&show_icons=true&bg_color=1a1b26&title_color=0095FF&text_color=00E6FF&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-git-main-filipecorr34s-projects.vercel.app/api?username=Filipecorr34&show_icons=true&bg_color=1a1b26&title_color=0095FF&text_color=00E6FF&include_all_commits=true&count_private=true"/>
    </a>
   </p>
 </div>
