@@ -3,7 +3,7 @@
 ### Estudante de Engenharia da Computação | Desenvolvedor 
 
 - Atualmente atuo como bolsista CNPq no Laboratório de Sistemas Interativos Inteligentes (LIIS), contribuindo diretamente para o projeto PPSUS. Nesse projeto, tenho focado no desenvolvimento de soluções voltadas para a saúde, como a construção de dashboards clínicos, trabalhando com tecnologias como Next.js, NestJS e TypeScript, além de me aprofundar em arquitetura de software e integração de APIs.
-- **Áreas de interesse:** Inteligência Artificial, Machine Learning, Deep Learning, Análise de Dados Desenvolvimento Web e Mobile, IoT, Eletrônica, Redes de Computadores e Segurança da Informação.
+- **Áreas de interesse:** Inteligência Artificial, Machine Learning, Deep Learning, Análise de Dados, Desenvolvimento Web e Mobile, IoT, Eletrônica, Redes de Computadores e Segurança da Informação.
 
 <div align="center">
   <a href="mailto:filipecorrea13976@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
