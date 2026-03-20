@@ -29,7 +29,7 @@ Aqui estão as linguagens e tecnologias com as quais tenho familiaridade:
   <img align="center" alt="Filipecorr34-CSS" height="50" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="Filipecorr34-Tailwindcss" height="70" width="70" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg">
   <img align="center" alt="Filipecorr34-Flask" height="70" width="70" <img src="https://github.com/user-attachments/assets/5da404fb-61f0-4093-b11a-5d98df1d69d1">
-  <img align="center" alt="Filipecorr34-Colab" height="50" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg">
+  <img align="center" alt="Filipecorr34-Json" height="50" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg">
   <img align="center" alt="Filipecorr34-VScode" height="50" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
   <img align="center" alt="Filipecorr34-Arduino" height="50" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg">
   <img align="center" alt="Filipecorr34-Colab" height="50" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg">
@@ -44,7 +44,7 @@ Aqui estão as linguagens e tecnologias com as quais tenho familiaridade:
   <img align="center" alt="Filipecorr34-Vim" height="50" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg">
   <img align="center" alt="Filipecorr34-bash" height="50" width="40" src="https://github.com/user-attachments/assets/b1e6cecf-4bec-4b96-8e4c-5b7138439d51">
   <img align="center" alt="Filipecorr34-Powershell" height="50" width="40" ![Uploading image.png…]()<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg">
-  <img align="center" alt="Filipecorr34-Colab" height="50" width="40" src="https://github.com/user-attachments/assets/2df5b67e-8764-4f6a-9fc8-ab526916c57b" />
+  <img align="center" alt="Filipecorr34-Latex" height="50" width="40" src="https://github.com/user-attachments/assets/2df5b67e-8764-4f6a-9fc8-ab526916c57b" />
 
 
 
