@@ -2,7 +2,7 @@
 
 ### Estudante de Engenharia da Computação | Desenvolvedor 
 
-- Atualmente atuo como bolsista CNPq no Laboratório de Sistemas Interativos Inteligentes (LIIS), contribuindo diretamente para o projeto PPSUS. Nesse projeto, tenho focado no desenvolvimento de soluções voltadas para a saúde, como a construção de dashboards clínicos, trabalhando com tecnologias como Next.js, NestJS e TypeScript, além de me aprofundar em arquitetura de software e integração de APIs.
+- Atualmente atuo como bolsista CNPq no Laboratório de Sistemas Interativos Inteligentes (LIIS), contribuindo diretamente para o projeto PPSUS. Nesse projeto, tenho focado no desenvolvimento de uma plataforma digital focada na gestão e controle da Tuberculose na rede pública de saúde. Envolvendo a construção de dashboards clínicos que facilitam a tomada de decisão médica, utilizando Next.js, NestJS e TypeScript, além de me aprofundar em arquitetura de software e integração de APIs. Em paralelo, contribuo na criação de uma patente de Malha Meteorológica Modular, um sistema loT que utiliza ESP32-WROOM-32D-N8 e comunicação LoRaWAN para implementar Edge Computing e processamento de borda no monitoramento ambiental de longo alcance.
 - **Áreas de interesse:** Inteligência Artificial, Machine Learning, Deep Learning, Análise de Dados, Desenvolvimento Web e Mobile, IoT, Eletrônica, Redes de Computadores e Segurança da Informação.
 
 <div align="center">
