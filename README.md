@@ -37,7 +37,7 @@ Aqui estão as linguagens e tecnologias com as quais tenho familiaridade:
   <img align="center" alt="Filipecorr34-AWS" height="50" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="center" alt="Filipecorr34-linix" height="50" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
   <img align="center" alt="Filipecorr34-MySQL" height="70" width="60" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Filipecorr34-Nextjs" height="50" width="40" src="https://github.com/user-attachments/assets/8ab93557-bcb3-44e0-829d-8040ea12631d">
+  <img align="center" alt="Filipecorr34-Nextjs" height="50" width="40" src="https://github.com/user-attachments/assets/13e4f38a-ab33-4afa-9eb1-5f35adbac4c0">
   <img align="center" alt="Filipecorr34-Nodejs" height="50" width="40" src="https://github.com/user-attachments/assets/b93b0d00-c34a-4d4b-89d5-63092b3efe81">
   <img align="center" alt="Filipecorr34-Bun" height="50" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg">
   <img align="center" alt="Filipecorr34-Npm" height="50" width="40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg">
