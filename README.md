@@ -22,7 +22,7 @@
 
 Aqui estão as linguagens e ferramentas com as quais tenho familiaridade:
 
-<a align="center">
+<div align="center">
   <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">&nbsp;
   <img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">&nbsp;
   <img alt="C" height="40" src="https://github.com/user-attachments/assets/1485e287-bd01-40a1-b090-c058c4ece3ec">&nbsp;
@@ -50,7 +50,7 @@ Aqui estão as linguagens e ferramentas com as quais tenho familiaridade:
   <img alt="Bash" height="40" src="https://github.com/user-attachments/assets/b1e6cecf-4bec-4b96-8e4c-5b7138439d51">&nbsp;
   <img alt="PowerShell" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg">&nbsp;
   <img alt="LaTeX" height="40" src="https://github.com/user-attachments/assets/2df5b67e-8764-4f6a-9fc8-ab526916c57b">
-</a>
+</div>
 
  ##
 
